@@ -1,0 +1,5 @@
+appname = catApi
+httpport = PORT ADDRESS
+runmode = dev
+StaticDir = static:static
+cat_api_key = YOUR_CAT_API_KEY_HERE
